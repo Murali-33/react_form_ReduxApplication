@@ -2,7 +2,7 @@ React Redux Application with Post and Reactions
 Welcome to the React Redux Application with Post and Reactions! This application allows users to create posts with a title, select a user from a list, and add content. Additionally, users can react to posts with various emojis.
 
 Demo
-Check out the live demo: React Redux Application Demo
+Check out the live demo:https://murali-33.github.io/react_form_ReduxApplication/
 
 Features
 Create a Post:
