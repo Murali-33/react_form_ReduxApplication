@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_form_ReduxApplication/static/css/main.981ee904.css",
+    "main.js": "/react_form_ReduxApplication/static/js/main.14954c88.js",
+    "index.html": "/react_form_ReduxApplication/index.html",
+    "main.981ee904.css.map": "/react_form_ReduxApplication/static/css/main.981ee904.css.map",
+    "main.14954c88.js.map": "/react_form_ReduxApplication/static/js/main.14954c88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.981ee904.css",
+    "static/js/main.14954c88.js"
+  ]
+}
